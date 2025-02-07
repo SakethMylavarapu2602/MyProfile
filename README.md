@@ -3,7 +3,7 @@
 🚀 **Software Engineer**  
 📍 Based in Dallas, TX  
 📧 mvrsaketh@gmail.com | 📞 +1 940-843-3503  
-[LinkedIn](https://www.linkedin.com/in/sakethmylavarapu) | [GitHub](https://github.com/SakethMylavarapu2602)
+[LinkedIn](https://www.linkedin.com/in/saketh-mylavarapu/) | [GitHub](https://github.com/SakethMylavarapu2602)
 
 ## 🛠 Technical Skills
 - **Programming Languages:** Java, Python, C++, SQL, JavaScript
