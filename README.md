@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Saketh Mylavarapu
 
-🚀 **Software Engineer | Data Engineer | Full Stack Developer**  
+🚀 **Software Engineer**  
 📍 Based in Dallas, TX  
 📧 mvrsaketh@gmail.com | 📞 +1 940-843-3503  
 [LinkedIn](https://www.linkedin.com/in/sakethmylavarapu) | [GitHub](https://github.com/SakethMylavarapu2602)
